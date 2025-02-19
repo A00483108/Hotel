@@ -55,8 +55,8 @@ Below is a screenshot of the response for the `POST /api/hotels` request using P
 Hotel
 ├── src
 │   ├── main
-│   │   ├── java.com.example
-│   │   │   │   ├── hotel
+│   │   ├── java
+│   │   │   │   ├── com.example.hotel
 │   │   │   │   │   ├── controller
 │   │   │   │   │   │   └── HotelController.java
 │   │   │   │   │   ├── service
